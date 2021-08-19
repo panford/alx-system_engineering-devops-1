@@ -1,0 +1,1 @@
+Trying project on shell permissions
